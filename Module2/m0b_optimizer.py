@@ -2,6 +2,8 @@
 This describes is an optimiser used in module 0b
 This hard codes some things to make the example code simple. In a normal
 situation there would be many more options and nothing hard coded
+
+NOTE: DO NOT MAKE ANY CHANGES TO THIS FILE
 '''
 import numpy as np
 
