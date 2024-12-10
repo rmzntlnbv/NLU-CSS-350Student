@@ -1,0 +1,16 @@
+name     role         type      demographic  \
+0              age  Feature      Integer              Age   
+1        workclass  Feature  Categorical           Income   
+2           fnlwgt  Feature      Integer             None   
+3        education  Feature  Categorical  Education Level   
+4    education-num  Feature      Integer  Education Level   
+5   marital-status  Feature  Categorical            Other   
+6       occupation  Feature  Categorical            Other   
+7     relationship  Feature  Categorical            Other   
+8             race  Feature  Categorical             Race   
+9              sex  Feature       Binary              Sex   
+10    capital-gain  Feature      Integer             None   
+11    capital-loss  Feature      Integer             None   
+12  hours-per-week  Feature      Integer             None   
+13  native-country  Feature  Categorical            Other   
+14          income   Target       Binary           Income  
