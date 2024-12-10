@@ -1,0 +1,4 @@
+Need to install the following libraries for rlboard.py to work (import cv2).
+
+At the CLI: pip install opencv-python
+            pip install opencv-python-headless
